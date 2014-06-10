@@ -1,4 +1,4 @@
-package explodingChicken;
+package co.justgame.explodingchicken;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

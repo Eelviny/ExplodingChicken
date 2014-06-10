@@ -1,4 +1,4 @@
-package explodingChicken;
+package co.justgame.explodingchicken;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
